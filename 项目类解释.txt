@@ -1,0 +1,18 @@
+AlermLight 警告灯光脚本，控制画面一闪一闪红色，绑定到平行光上
+Searchlight 探照灯脚本，控制探照灯监视主角
+Door1 自动门及电梯门脚本，控制其开关
+Keycard 钥匙脚本
+Laser 激光脚本
+Lift 升降机控制脚本，包含游戏胜利
+CameraContrl 主相机控制脚本
+Player 主角控制脚本
+PlayerHealth 主角血量控制脚本
+SwitchUnit 激光开关控制脚本
+Tags 标签值类，增强可读性，减少编程出错，可用枚举代替
+//重要
+GameManager游戏管理类
+四个敌人控制脚本
+EnemyAnimation 控制敌人动画
+EnemyMoveAI 敌人AI
+EnemyShooting 敌人射击
+EnemySight 敌人视野
